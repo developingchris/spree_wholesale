@@ -2,5 +2,5 @@ source "http://rubygems.org"
 gemspec
 
 group :development, :test do
-  gem 'spree_auth_devise', github: 'spree/spree_auth_devise', branch: '2-1-stable'
+  gem 'solidus_auth_devise', github: 'solidusio/solidus_auth_devise', branch: 'master'
 end
